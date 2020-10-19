@@ -1,5 +1,7 @@
 # AQuaMuSe: Automatically Generating Datasets for Query-Based Multi-Document Summarization
 
+(work-in-progress)
+
 Placeholder for query based multi-document summarization dataset.
 
 * Related to paper to be published on archive.
